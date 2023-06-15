@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS postup_db;
+CREATE DATABASE postup_db;
