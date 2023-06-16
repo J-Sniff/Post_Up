@@ -1,0 +1,16 @@
+{{#extend "main"}}
+    {{#content "body"}}
+        <h2>Welcome to My Blog!</h2>
+
+        
+        {{#each posts}}
+            <div class="blog-post">
+                <h3>{{title}}</h3>
+                <p>{{content}}</p>
+            </div>
+        {{/each}}
+
+        
+        <a href="/posts">View All Posts</a>
+    {{/content}}
+{{/extend}}
