@@ -18,6 +18,8 @@
 ## Installation
 
   No software needed to install simply follow this link and start blogging!
+
+  ![screenshot of website](/assets/Screenshot%202023-06-18%20182540.png)
   
 ## License
 
